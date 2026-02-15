@@ -1,1 +1,4 @@
+ HEAD
 This is from branch A
+This is from branch B
+ conflict-b
